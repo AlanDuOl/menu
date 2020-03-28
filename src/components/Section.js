@@ -1,11 +1,11 @@
 import React from 'react'
 import Product from './Product'
 import Header from './Header'
-import Footer from './Footer'
 
-function Section() {
+function Section(props) {
     return (
         <section className="section">
+            <Header headerName={props.sectionData.name} />
             <Product />
         </section>
     )
