@@ -7,7 +7,6 @@ import '../css/Page.css'
 function Page() {
     return (
         <div className="page">
-            <Header />
             <Content />
             <Footer />
         </div>

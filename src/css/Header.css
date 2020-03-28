@@ -2,6 +2,5 @@
 .header {
     display: flex;
     justify-content: center;
-    /* grid-area: "header"; */
-    width: var(--app-height);
+    /* width: inherit; */
 }
