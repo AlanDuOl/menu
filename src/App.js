@@ -9,7 +9,6 @@ function App() {
 
     function openApp() {
         setOpen(true);
-        console.log(opened);
     }
 
     return (
