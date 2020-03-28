@@ -3,4 +3,9 @@
     display: flex;
     justify-content: left;
     font-weight: bolder;
+    font-size: 20px;
+}
+
+.header :first-child {
+    margin: 0.5rem 0;
 }

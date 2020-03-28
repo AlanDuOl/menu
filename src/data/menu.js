@@ -8,8 +8,9 @@ module.exports = {
                 {
                     name: "Mix board with cheese and ham",
                     details: "",
-                    image: "",
-                    price: ""
+                    image: "alt",
+                    hPrice: "$7.50",
+                    fPrice: "$17.30"
                 },
                 {
                     name: "Board with ham",
